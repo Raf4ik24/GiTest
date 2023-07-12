@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Домашка C++\GIT\GIT\Source.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Домашка C++\GIT\GIT\Source.cpp(12,31): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  GIT.vcxproj -> C:\Домашка C++\GIT\x64\Debug\GIT.exe
